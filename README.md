@@ -3,9 +3,7 @@
 **`Frontend Developer`**
 <br>
 <br>
-Sou desenvolvedora Frontend em desenvolvimento desde 2017, focada em desenvolvimento web. Tive a sorte de trabalhar com marcas incríveis da indústria farmacêutica, incluindo GSK (Brasil), Libbs, União Química e Takeda.
-
-<br>
+Sou desenvolvedora Frontend em desenvolvimento desde 2020, focada em desenvolvimento web. Tive a sorte de trabalhar com marcas incríveis da indústria farmacêutica, incluindo GSK (Brasil), Libbs, União Química e Takeda.
 <br>
 
 <div align="center">
